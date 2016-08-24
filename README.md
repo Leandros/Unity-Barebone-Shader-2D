@@ -4,6 +4,10 @@ I wasn't satisfied with the templates Unity gave me, I therefore decided
 to write a few of them for my own usage, so I can easily copy them over and
 start working on the shader.
 
+# Table of Contents
+
+- [Color2D.shader](https://github.com/Leandros/Unity-Barebone-Shader-2D/blob/master/Color2D.shader): Textured 2D plane with alpha
+
 # Contributions
 
 All contributions are welcome. Just open an issue or send a pull-request.
